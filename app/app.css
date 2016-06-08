@@ -1,3 +1,7 @@
 body {
 	padding-top: 20px;
 }
+
+table span {
+	padding-right: 10px;
+}
