@@ -1,4 +1,13 @@
 {
 	"name": "Test-phone",
-	"description": "A"
+	"description": "An exercise follow by google angular-phonecat project",
+	"version": "1.0",
+	"homepage": "https://github.com/fish444555/TestPhone",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+		"angular": "1.5.x",
+		"angular-mocks": "1.5.x",
+		"bootstrap": "3.3.x"
+	}
 }
